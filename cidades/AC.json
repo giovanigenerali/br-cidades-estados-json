@@ -1,0 +1,26 @@
+{
+  "cidades": [
+    {"id": "AC", "cidade": "Acrelândia"},
+    {"id": "AC", "cidade": "Assis Brasil"},
+    {"id": "AC", "cidade": "Brasiléia"},
+    {"id": "AC", "cidade": "Bujari"},
+    {"id": "AC", "cidade": "Capixaba"},
+    {"id": "AC", "cidade": "Cruzeiro do Sul"},
+    {"id": "AC", "cidade": "Epitaciolândia"},
+    {"id": "AC", "cidade": "Feijó"},
+    {"id": "AC", "cidade": "Jordão"},
+    {"id": "AC", "cidade": "Mâncio Lima"},
+    {"id": "AC", "cidade": "Manoel Urbano"},
+    {"id": "AC", "cidade": "Marechal Thaumaturgo"},
+    {"id": "AC", "cidade": "Plácido de Castro"},
+    {"id": "AC", "cidade": "Porto Acre"},
+    {"id": "AC", "cidade": "Porto Walter"},
+    {"id": "AC", "cidade": "Rio Branco", "capital": true},
+    {"id": "AC", "cidade": "Rodrigues Alves"},
+    {"id": "AC", "cidade": "Santa Rosa do Purus"},
+    {"id": "AC", "cidade": "Sena Madureira"},
+    {"id": "AC", "cidade": "Senador Guiomard"},
+    {"id": "AC", "cidade": "Tarauacá"},
+    {"id": "AC", "cidade": "Xapuri"}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cidades": [
+    {"id": "RR", "cidade": "Alto Alegre"},
+    {"id": "RR", "cidade": "Amajari"},
+    {"id": "RR", "cidade": "Boa Vista", "capital": true},
+    {"id": "RR", "cidade": "Bonfim"},
+    {"id": "RR", "cidade": "Cantá"},
+    {"id": "RR", "cidade": "Caracaraí"},
+    {"id": "RR", "cidade": "Caroebe"},
+    {"id": "RR", "cidade": "Iracema"},
+    {"id": "RR", "cidade": "Mucajaí"},
+    {"id": "RR", "cidade": "Normandia"},
+    {"id": "RR", "cidade": "Pacaraima"},
+    {"id": "RR", "cidade": "Rorainópolis"},
+    {"id": "RR", "cidade": "São João da Baliza"},
+    {"id": "RR", "cidade": "São Luiz"},
+    {"id": "RR", "cidade": "Uiramutã"}
+  ]
+}

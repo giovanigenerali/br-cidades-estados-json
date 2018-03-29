@@ -1,0 +1,5 @@
+{
+  "cidades": [
+    {"id": "DF", "cidade": "Brasília", "capital": true}
+  ]
+}

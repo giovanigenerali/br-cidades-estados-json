@@ -1,0 +1,20 @@
+{
+  "cidades": [
+    {"id": "AP", "cidade": "Amapá"},
+    {"id": "AP", "cidade": "Calçoene"},
+    {"id": "AP", "cidade": "Cutias"},
+    {"id": "AP", "cidade": "Ferreira Gomes"},
+    {"id": "AP", "cidade": "Itaubal"},
+    {"id": "AP", "cidade": "Laranjal do Jari"},
+    {"id": "AP", "cidade": "Macapá", "capital": true},
+    {"id": "AP", "cidade": "Mazagão"},
+    {"id": "AP", "cidade": "Oiapoque"},
+    {"id": "AP", "cidade": "Pedra Branca do Amapari"},
+    {"id": "AP", "cidade": "Porto Grande"},
+    {"id": "AP", "cidade": "Pracuúba"},
+    {"id": "AP", "cidade": "Santana"},
+    {"id": "AP", "cidade": "Serra do Navio"},
+    {"id": "AP", "cidade": "Tartarugalzinho"},
+    {"id": "AP", "cidade": "Vitória do Jari"}
+  ]
+}
