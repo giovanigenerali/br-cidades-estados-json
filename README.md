@@ -8,15 +8,15 @@ JSON com todos os estados e cidades do Brasil
 ### Listar Estados
 
 ```
-https://raw.githubusercontent.com/wgenial/br-cidades-estados-json/master/estados.json
+https://raw.githubusercontent.com/giovanigenerali/br-cidades-estados-json/master/estados.json
 ```
 
 ### Listar Cidades
 
 ```
-https://raw.githubusercontent.com/wgenial/br-cidades-estados-json/master/cidades/AC.json
+https://raw.githubusercontent.com/giovanigenerali/br-cidades-estados-json/master/cidades/AC.json
 
-https://raw.githubusercontent.com/wgenial/br-cidades-estados-json/master/cidades/SP.json
+https://raw.githubusercontent.com/giovanigenerali/br-cidades-estados-json/master/cidades/SP.json
 
 ...
 ```
